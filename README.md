@@ -1,4 +1,4 @@
 datascience
 ===========
 
-Files for the Coursera Data Science classes
+Files for the Coursera Data Science classes.
